@@ -1,0 +1,15 @@
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\bin\Debug\net6.0\SSS.exe
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\bin\Debug\net6.0\SSS.deps.json
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\bin\Debug\net6.0\SSS.runtimeconfig.json
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\bin\Debug\net6.0\SSS.dll
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\bin\Debug\net6.0\SSS.pdb
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\obj\Debug\net6.0\SSS.csproj.AssemblyReference.cache
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\obj\Debug\net6.0\SSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\obj\Debug\net6.0\SSS.AssemblyInfoInputs.cache
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\obj\Debug\net6.0\SSS.AssemblyInfo.cs
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\obj\Debug\net6.0\SSS.csproj.CoreCompileInputs.cache
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\obj\Debug\net6.0\SSS.dll
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\obj\Debug\net6.0\refint\SSS.dll
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\obj\Debug\net6.0\SSS.pdb
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\obj\Debug\net6.0\SSS.genruntimeconfig.cache
+C:\Users\dmytro.k15\source\repos\SSS-master\SSS\obj\Debug\net6.0\ref\SSS.dll
